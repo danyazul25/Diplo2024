@@ -11,10 +11,13 @@ def suma (a, b):
 def resta(a, b):
     c = a - b
     print("La resta de a + b es: ")
+#resta(2,3)  
     
 
 def multiplicacion(a, b):
-    pass
+    c = a * b
+    print("La la multiplicación de a + b es: ")
+multiplicacion(2,3)
 
 def division(a, b):
     pass
